@@ -13,6 +13,17 @@ The dataset used in this project contained various customer attributes, includin
 - **Billing information** (e.g., monthly charges, total charges)
 - **Churn status** (target variable)
 
+The dataset is imbalanced with Churn distribution:
+Churn
+No     0.73463
+Yes    0.26537
+
+To counter imbalance,
+1. weights were given to labels to make models learn better.
+2. Oversampling( SMOTE ) to add more churned users to make models learn better. 
+
+The models were evaluated after both these techniques.
+
 
 ## Summary
 Developed and compared four machine learning models to predict customer churn:
