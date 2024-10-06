@@ -1,7 +1,6 @@
-# Customer Churn Prediction Project
+# Customer Churn Prediction for Telecom company
 
-## Reason Behind the Project
-The primary goal of this project was to develop a predictive model to identify customers at risk of churning. By accurately predicting churn, the company can proactively implement retention strategies, reduce customer attrition, and ultimately increase revenue and customer lifetime value.
+The primary goal was to develop a predictive model to identify customers at risk of churning. By accurately predicting churn, the company can proactively implement retention strategies, reduce customer attrition, and ultimately increase revenue and customer lifetime value.
 
 ## Background and Overview
 Customer churn is a critical issue in the telecommunications industry, where acquiring new customers is often more expensive than retaining existing ones. This project aimed to leverage machine learning techniques to analyze customer data and predict which customers are likely to discontinue their services.
