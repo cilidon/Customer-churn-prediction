@@ -14,8 +14,11 @@ The dataset used in this project contained various customer attributes, includin
 - **Churn status** (target variable)
 
 The dataset is imbalanced with Churn distribution:
+
 Churn
+
 No     0.73463
+
 Yes    0.26537
 
 To counter imbalance,
