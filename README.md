@@ -13,8 +13,9 @@ The dataset used in this project contained various customer attributes, includin
 - **Billing information** (e.g., monthly charges, total charges)
 - **Churn status** (target variable)
 
-## Executive Summary
-We developed and compared four machine learning models to predict customer churn:
+
+## Summary
+Developed and compared four machine learning models to predict customer churn:
 1. Logistic Regression
 2. Random Forest
 3. XGBoost
@@ -29,14 +30,14 @@ The Logistic Regression model outperformed the others, achieving:
 
 This model provides a strong foundation for identifying customers at risk of churning, allowing for targeted retention efforts.
 
-## Insights Deep Dive
+### Insights Deep Dive
 1. **Customer Tenure:** Longer-tenured customers are less likely to churn.
 2. **Contract Type:** Customers on month-to-month contracts are more likely to churn.
 3. **Additional Services:** Customers with more services are less likely to churn.
 4. **Payment Method:** Electronic check users show a higher propensity to churn.
 5. **Internet Service:** The type of internet service significantly influences churn risk.
 
-## Key Findings
+### Key Findings
 1. The most important predictors of churn are tenure, contract type, and total charges.
 2. There's a strong relationship between customer engagement (number of services) and churn risk.
 3. Billing practices and payment methods play a significant role in customer retention.
