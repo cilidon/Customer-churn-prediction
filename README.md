@@ -30,6 +30,9 @@ The Logistic Regression model outperformed the others, achieving:
 
 This model provides a strong foundation for identifying customers at risk of churning, allowing for targeted retention efforts.
 
+![image](https://github.com/user-attachments/assets/c1677731-2542-4f6a-b7f4-11dc96f81bc8)
+
+
 ### Insights Deep Dive
 1. **Customer Tenure:** Longer-tenured customers are less likely to churn.
 2. **Contract Type:** Customers on month-to-month contracts are more likely to churn.
